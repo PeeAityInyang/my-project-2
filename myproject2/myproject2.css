@@ -1,15 +1,18 @@
 body {
-    background-image: url();
-    text-align: center;
-    font-size: 20px;
+    background-image: url("game.jpg");
+    background-position: center;
+    background-size: cover;
+    font-size: 50px;
     color: white;
     font-weight: 200px;
+    text-align: center;
     font-style: normal;
+
 }
 
 h1 {
     color: goldenrod;
-    font-size: 50px;
+    font-size: 100px;
 }
 
 .message-el {
@@ -22,4 +25,6 @@ button {
     padding-top: 10px;
     padding-bottom: 10px;
     width: auto;
+    border-radius: 5px;
+
 }
